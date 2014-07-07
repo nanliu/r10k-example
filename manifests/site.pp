@@ -1,0 +1,3 @@
+# default node
+node default {
+}
